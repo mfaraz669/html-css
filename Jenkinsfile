@@ -6,7 +6,7 @@ pipeline {
                 steps {
                     gitCheckout (
                         branch: "main",
-                        url: "https://github.com/zeenathfatima-123/html-css.git"
+                        url: "https://github.com/mfaraz669/html-css.git"
                     )
                         
                 }
